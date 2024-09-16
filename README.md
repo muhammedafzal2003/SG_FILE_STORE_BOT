@@ -113,7 +113,7 @@ python3 main.py
 
 * `CUSTOM_CAPTION` put your Custom caption text if you want Setup Custom Caption, you can use HTML and <a href='https://github.com/CodeXBotz/File-Sharing-Bot/blob/main/README.md#custom_caption'>fillings</a> for formatting (only for documents)
 * `DISABLE_CHANNEL_BUTTON` Put True to Disable Channel Share Button, Default if False
-* `BOT_STATS_TEXT` put your custom text for stats command, use HTML and <ahref= 'https://github.com/muhammedafzal2003/ SG_FILE_STORE_ BOT/blob/main/README.md#custom_stats'>fillings</a>
+* `BOT_STATS_TEXT` put your custom text for stats command, use HTML and <ahref='https://github.com/muhammedafzal2003/SG_FILE_STORE_ BOT/blob/main/README.md#custom_stats'>fillings</a>
 * `USER_REPLY_TEXT` put your text to show when user sends any message, use HTML
 
 
