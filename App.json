@@ -7,7 +7,7 @@
     "store"
   ],
   "repository": "",
-  "logo": "https://ibb.co/FgPVtzw",
+  "logo": "https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
@@ -15,11 +15,11 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": "6075373591"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
-      "value": ""
+      "value": "24543309"
     },
     "DATABASE_URL": {
       "description": "Paste your mongo db url",
@@ -27,11 +27,11 @@
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
-      "value": "filesharexbot"
+      "value": "CLISTER1"
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
-      "value": ""
+      "value": "7a6d614216bf5c46c9cbde160925b2cf"
     },
     "CHANNEL_ID":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
