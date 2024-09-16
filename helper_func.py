@@ -1,4 +1,4 @@
-#(©)Codexbotz
+#(©)SG_MUHAMMED_AFZAL
 
 import base64
 import re
